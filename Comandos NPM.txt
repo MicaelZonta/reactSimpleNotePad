@@ -1,0 +1,9 @@
+npx create-react-app ceep -> cria projetp
+
+
+nvm install 12.17 -> instala VERSÃO
+
+ 
+nvm use 12.17 -> USA VERSÃO
+
+npm start -> starta projeto
